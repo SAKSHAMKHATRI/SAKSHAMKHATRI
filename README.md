@@ -46,6 +46,10 @@
 <img src="https://img.shields.io/badge/🏠%20Design%20Your%20Dream-Live-black?style=for-the-badge&logo=vercel"/>
 </a>
 
+<a href="https://hire-fit-ai-snowy.vercel.app/">
+<img src="https://img.shields.io/badge/🤖%20HireFit%20AI-Live-purple?style=for-the-badge&logo=vercel"/>
+</a>
+
 </p>
 
 ---
@@ -66,8 +70,11 @@
 <img src="https://img.shields.io/badge/Design%20Your%20Dream-GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</p>
+<a href="https://github.com/SAKSHAMKHATRI/HireFitAi">
+<img src="https://img.shields.io/badge/HireFit%20AI-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
+</p>
 ---
 
 # ⚙️ Tech Stack
